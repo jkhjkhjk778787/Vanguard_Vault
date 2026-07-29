@@ -6,17 +6,65 @@
       <description>Last 10 notes on Quartz 5</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Tag Index</title>
-    <link>https://quartz.jzhao.xyz/tags/</link>
-    <guid>https://quartz.jzhao.xyz/tags/</guid>
+    <title>스택정렬</title>
+    <link>https://quartz.jzhao.xyz/tags/%EC%8A%A4%ED%83%9D%EC%A0%95%EB%A0%AC</link>
+    <guid>https://quartz.jzhao.xyz/tags/%EC%8A%A4%ED%83%9D%EC%A0%95%EB%A0%AC</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Wed, 29 Jul 2026 16:09:45 GMT</pubDate>
+    <pubDate>Wed, 29 Jul 2026 16:10:13 GMT</pubDate>
   </item><item>
-    <title>Vanguard Vault (Level 3 해킹 훈련소)</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description><![CDATA[ 🚀 Vanguard Vault에 오신 것을 환영합니다! 이곳은 시스템 커널 해킹과 리버스 엔지니어링 훈련 기록이 실시간으로 동기화되는 비밀 기지입니다. ]]></description>
-    <pubDate>Wed, 29 Jul 2026 16:09:40 GMT</pubDate>
+    <title>alignment</title>
+    <link>https://quartz.jzhao.xyz/tags/alignment</link>
+    <guid>https://quartz.jzhao.xyz/tags/alignment</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 29 Jul 2026 16:10:13 GMT</pubDate>
+  </item><item>
+    <title>리버싱</title>
+    <link>https://quartz.jzhao.xyz/tags/%EB%A6%AC%EB%B2%84%EC%8B%B1</link>
+    <guid>https://quartz.jzhao.xyz/tags/%EB%A6%AC%EB%B2%84%EC%8B%B1</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 29 Jul 2026 16:10:13 GMT</pubDate>
+  </item><item>
+    <title>segmentationfault</title>
+    <link>https://quartz.jzhao.xyz/tags/segmentationfault</link>
+    <guid>https://quartz.jzhao.xyz/tags/segmentationfault</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 29 Jul 2026 16:10:13 GMT</pubDate>
+  </item><item>
+    <title>simd</title>
+    <link>https://quartz.jzhao.xyz/tags/simd</link>
+    <guid>https://quartz.jzhao.xyz/tags/simd</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 29 Jul 2026 16:10:13 GMT</pubDate>
+  </item><item>
+    <title>aslr</title>
+    <link>https://quartz.jzhao.xyz/tags/aslr</link>
+    <guid>https://quartz.jzhao.xyz/tags/aslr</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 29 Jul 2026 16:10:13 GMT</pubDate>
+  </item><item>
+    <title>offset</title>
+    <link>https://quartz.jzhao.xyz/tags/offset</link>
+    <guid>https://quartz.jzhao.xyz/tags/offset</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 29 Jul 2026 16:10:13 GMT</pubDate>
+  </item><item>
+    <title>해킹</title>
+    <link>https://quartz.jzhao.xyz/tags/%ED%95%B4%ED%82%B9</link>
+    <guid>https://quartz.jzhao.xyz/tags/%ED%95%B4%ED%82%B9</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 29 Jul 2026 16:10:13 GMT</pubDate>
+  </item><item>
+    <title>메모리방어</title>
+    <link>https://quartz.jzhao.xyz/tags/%EB%A9%94%EB%AA%A8%EB%A6%AC%EB%B0%A9%EC%96%B4</link>
+    <guid>https://quartz.jzhao.xyz/tags/%EB%A9%94%EB%AA%A8%EB%A6%AC%EB%B0%A9%EC%96%B4</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 29 Jul 2026 16:10:13 GMT</pubDate>
+  </item><item>
+    <title>informationleak</title>
+    <link>https://quartz.jzhao.xyz/tags/informationleak</link>
+    <guid>https://quartz.jzhao.xyz/tags/informationleak</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 29 Jul 2026 16:10:13 GMT</pubDate>
   </item>
     </channel>
   </rss>
